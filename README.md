@@ -1,2 +1,2 @@
 # LeetCode
-This repositiory contains the code of the questions I have submitted in Leetcode.
+This repository contains the code of the questions I have submitted in Leetcode.
